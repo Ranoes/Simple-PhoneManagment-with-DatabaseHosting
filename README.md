@@ -1,18 +1,13 @@
-## Getting Started
+## About
+Hey I am Adrian Ibrahim - 235150407111005 - UB
+This project uses JAVA as the languageCode, JAVASwing as the GUI, JDBC as the conectivity, [Filess.io]https://filess.io/ as the Database Hosting
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
 
-## Folder Structure
+Simple PhoneManagement GUI Application; can view, add, delete, and edit the conencted database table.
 
-The workspace contains two folders by default, where:
+## Notes
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+CHANGE THE DATABASE FIRST OKIE if you wanna use it for your project
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+feel free to use it
