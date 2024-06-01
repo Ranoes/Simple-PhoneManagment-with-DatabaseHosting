@@ -1,3 +1,7 @@
+// Adrian Ibrahim Putra Wirahmat
+// 235150407111005
+// SI-A
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
