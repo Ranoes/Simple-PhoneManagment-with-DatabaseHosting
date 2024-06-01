@@ -1,6 +1,6 @@
-## About
+# About
 Hey I am Adrian Ibrahim - 235150407111005 - UB
-This project uses JAVA as the languageCode, JAVASwing as the GUI, JDBC as the conectivity, [Filess.io]https://filess.io/ as the Database Hosting
+This project uses JAVA as the languageCode, JAVASwing as the GUI, JDBC as the conectivity, [Filess.io](https://filess.io/ as the Database Hosting)
 
 ## Description
 
